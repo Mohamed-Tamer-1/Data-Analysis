@@ -1,3 +1,6 @@
+<img src="https://github.com/Mohamed-Tamer-1/Data-Analysis/blob/main/Customer%20Churn%20Dashboard/Churn%20Dashboard.jpg" width="250">
+
+
 🚀 Diving into Customer Churn Insights: My First Dashboard as a DEPI Trainee 🚀
 
 I'm thrilled to share my very first project as a DEPI trainee—a comprehensive Churn Dashboard that I developed to analyse customer behaviour and retention patterns.
