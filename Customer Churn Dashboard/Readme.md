@@ -1,4 +1,4 @@
-<img src="https://github.com/Mohamed-Tamer-1/Data-Analysis/blob/main/Customer%20Churn%20Dashboard/Churn%20Dashboard.jpg" width="250">
+<img src="https://github.com/Mohamed-Tamer-1/Data-Analysis/blob/main/Customer%20Churn%20Dashboard/Churn%20Dashboard.jpg" width="350">
 
 
 🚀 Diving into Customer Churn Insights: My First Dashboard as a DEPI Trainee 🚀
