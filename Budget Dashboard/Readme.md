@@ -5,7 +5,9 @@
 
 This comprehensive dashboard offers a clear visual representation of our budget performance across multiple products. Here are some key insights:
 
-🔍 Budget Variance: We're closely monitoring where we're ahead or behind, with a total variance of -0.42%.
+💰 Total Budget: $45.91M
+💸 Total Actual: $45.72M
+🔍 Budget Variance: We're closely monitoring where we're ahead or behind, with a total variance of -$193.22K (-0.42%).
 
 📈 Product Performance:
 
