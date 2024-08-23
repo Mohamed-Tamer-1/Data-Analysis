@@ -9,11 +9,12 @@ This comprehensive dashboard offers a clear visual representation of our budget 
 
 📈 Product Performance:
 
-Aspen has a variance of -1.56% 📉
+<pre>Aspen has a variance of -1.56% 📉
 Carlota is performing above budget by 0.48% 📊
 Quad is close to the budget with a 0.12% variance ✅
 📊 Total Budget vs. Total Actual:
 We're keeping a sharp eye on our finances, ensuring that our actuals align closely with our budget. The overall performance shows that we're nearly on track, with a small variance that we're addressing.
+</pre>
 
 This dashboard is a powerful tool in our decision-making process, helping us stay aligned with our financial goals. Let's keep pushing forward and make the next quarter even better! 💪
 
