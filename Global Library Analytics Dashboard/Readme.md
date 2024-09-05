@@ -7,7 +7,8 @@
 I’m excited to share this insightful dashboard that provides a comprehensive look at library resources around the globe! Here are some key takeaways:
 
 <pre>
-🌍 Total Librarians: A fascinating look at how librarian distribution varies by country, with concentrations across the US, Europe, and Asia.
+🌍 Total Librarians: A fascinating look at how librarian distribution varies by country, 
+  with concentrations across the US, Europe, and Asia.
 📚 Library Expenditures: The US leads in library expenditures, with over $21B, followed by the UK and Canada.
 📊 Total Volumes & Libraries: Visual breakdown of how library volumes and libraries are distributed across continents.
 📖 User to Library Ratios: Asia and Latin America show interesting dynamics in terms of user engagement with libraries.
