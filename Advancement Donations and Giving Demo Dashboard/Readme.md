@@ -20,10 +20,12 @@ I’m excited to share a snapshot of the incredible impact our donors have made 
 
 🎯 Top Donator Prospect ID: A special thanks to our top donors who have gone above and beyond in their generosity.
 
-💼 Total Gift Record by Gift Allocation: Scholarships, campus resources, and endowments are just a few areas where these gifts are making a tangible difference.
+💼 Total Gift Record by Gift Allocation: Scholarships, campus resources, 
+  and endowments are just a few areas where these gifts are making a tangible difference.
 
 This project was made possible through a fantastic collaboration with Belal Tamer. 
-  A huge thank you to all our donors and supporters. Together, we are driving forward the mission of education and making an impact that will be felt for generations to come!
+  A huge thank you to all our donors and supporters. Together, 
+  we are driving forward the mission of education and making an impact that will be felt for generations to come!
   </pre>
 
 #Philanthropy #Giving #HigherEducation #Donations #Impact #DataDriven #Collaboration
