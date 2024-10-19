@@ -1,6 +1,6 @@
 # Advancement Donations and Giving Demo Dashboard
 
-<img src="https://github.com/Mohamed-Tamer-1/Data-Analysis/blob/main/Advancement%20Donations%20and%20Giving%20Demo%20Dashboard/Advancement%20Donations%20and%20Giving%20Demo%20Dashboard.png" width="500">
+<img src="https://github.com/Mohamed-Tamer-1/Data-Analysis/blob/main/Tableau/Advancement%20Donations%20and%20Giving%20Demo%20Dashboard/Advancement%20Donations%20and%20Giving%20Demo%20Dashboard.png" width="500">
 
 🎉 Celebrating Generosity: Advancement Donations and Giving Dashboard 🎉
 <pre>

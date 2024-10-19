@@ -1,4 +1,4 @@
-<img src="https://github.com/Mohamed-Tamer-1/Data-Analysis/blob/main/Budget%20Dashboard/Budget%20Dashboard.jpg" width="350">
+<img src="https://github.com/Mohamed-Tamer-1/Data-Analysis/blob/main/Power%20BI/Budget%20Dashboard/Budget%20Dashboard.jpg" width="350">
 
 
 🚀 Excited to share our latest Budget Dashboard! 📊

@@ -1,6 +1,6 @@
 # Global Library Analytics Dashboard
 
-<img src="https://github.com/Mohamed-Tamer-1/Data-Analysis/blob/main/Global%20Library%20Analytics%20Dashboard/Global%20Library%20Analytics%20Dashboard.png" width="500">
+<img src="https://github.com/Mohamed-Tamer-1/Data-Analysis/blob/main/Tableau/Global%20Library%20Analytics%20Dashboard/Global%20Library%20Analytics%20Dashboard.png" width="500">
 
 📊 Global Library Analytics: A Snapshot of Library Resources Worldwide 🌍📚
 
