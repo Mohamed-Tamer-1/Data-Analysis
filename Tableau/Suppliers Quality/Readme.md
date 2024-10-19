@@ -12,8 +12,8 @@ This dashboard not only visualizes vendor performance but also tells a compellin
 -Defect Trends: A storytelling approach to visualize trends over time, identifying areas of concern and improvement.
 -Vendor Performance: Detailed breakdown across plants and vendors, highlighting where actions are needed.
 -Defect Categories: Insight into defect contributions from different categories like logistics, packaging, and mechanicals.
-This tool brings data to life, helping stakeholders understand where to focus efforts to boost quality and collaboration with suppliers.
 </pre>
+This tool brings data to life, helping stakeholders understand where to focus efforts to boost quality and collaboration with suppliers.
 
 #SupplierQuality #StorytellingWithData #DataVisualization #VendorManagement #QualityControl #Internship #DashboardDesign #ProcessImprovement #DEPI
 
