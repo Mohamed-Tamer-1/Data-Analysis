@@ -8,11 +8,12 @@ I'm excited to share the final project of my internship at DEPI — the "Supplie
 This dashboard not only visualizes vendor performance but also tells a compelling story about how we can improve supplier relationships and reduce defects.
 
 📈 Key Features:
-
+<pre>
 -Defect Trends: A storytelling approach to visualize trends over time, identifying areas of concern and improvement.
 -Vendor Performance: Detailed breakdown across plants and vendors, highlighting where actions are needed.
 -Defect Categories: Insight into defect contributions from different categories like logistics, packaging, and mechanicals.
 This tool brings data to life, helping stakeholders understand where to focus efforts to boost quality and collaboration with suppliers.
+</pre>
 
 #SupplierQuality #StorytellingWithData #DataVisualization #VendorManagement #QualityControl #Internship #DashboardDesign #ProcessImprovement #DEPI
 
